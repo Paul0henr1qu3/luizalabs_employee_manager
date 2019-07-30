@@ -22,13 +22,15 @@ curl -H "Content-Type: application/javascript" http://localhost:8000/employee/
 
 Response
 
-[
+  [
   
-  {
-        "name": "Arnaldo Pereira",
-        "email": "arnaldo@luizalabs.com",
-        "department": "Architecture"
-  },
+        {
+                "name": "Arnaldo Pereira",
+                
+                "email": "arnaldo@luizalabs.com",
+                
+                "department": "Architecture"
+         },
   
   {
         "name": "Renato Pedigoni",
