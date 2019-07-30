@@ -1,5 +1,4 @@
 # Luizalabs Employee Manager
-The purpose of this coding test is to evaluate your skills using Python and the Django web framework.
 
 ## Django Coding Test
 The purpose of this coding test is to evaluate your skills using Python and the Django web
