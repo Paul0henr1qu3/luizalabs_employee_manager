@@ -19,22 +19,27 @@ Luizalabs, it must have an API to allow integrations.
 ## Request
 
 curl -H "Content-Type: application/javascript" http://localhost:8000/employee/
+
 Response
 
 [
+  
   {
         "name": "Arnaldo Pereira",
         "email": "arnaldo@luizalabs.com",
         "department": "Architecture"
   },
+  
   {
         "name": "Renato Pedigoni",
         "email": "renato@luizalabs.com",
         "department": "E-commerce"
   },
+  
   {
         "name": "Thiago Catoto",
         "email": "catoto@luizalabs.com",
         "department": "Mobile"
   }
+  
 ]
