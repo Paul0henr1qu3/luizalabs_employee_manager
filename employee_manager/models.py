@@ -2,7 +2,9 @@ from django.db import models
 
 # Create your models here.
 class Employee(models.Model):
-
+    '''
+        Model that will store employee information
+    '''
     class Meta:
 
         db_table = 'employee'
