@@ -26,22 +26,20 @@ Response
   
         {
                 "name": "Arnaldo Pereira",
-                
                 "email": "arnaldo@luizalabs.com",
-                
                 "department": "Architecture"
          },
   
-  {
-        "name": "Renato Pedigoni",
-        "email": "renato@luizalabs.com",
-        "department": "E-commerce"
-  },
+        {
+               "name": "Renato Pedigoni",
+               "email": "renato@luizalabs.com",
+               "department": "E-commerce"
+         },
   
-  {
-        "name": "Thiago Catoto",
-        "email": "catoto@luizalabs.com",
-        "department": "Mobile"
-  }
+        {
+               "name": "Thiago Catoto",
+               "email": "catoto@luizalabs.com",
+               "department": "Mobile"
+         }
   
-]
+  ]
