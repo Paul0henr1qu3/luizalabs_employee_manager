@@ -13,6 +13,3 @@ class Employee(models.Model):
     email = models.CharField(max_length=200)
     department = models.CharField(max_length=200)
 
-    def __str__(self):
-        return self.title
-
